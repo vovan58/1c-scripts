@@ -1,0 +1,1 @@
+﻿restart-service Apache2.4

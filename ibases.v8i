@@ -1,0 +1,160 @@
+﻿[Фонд зарплата]
+Connect=Srvr="SRVMAIN";Ref="fondzrp";
+ID=93f4d588-c9b4-428a-b752-e996e049c35a
+OrderInList=16896
+Folder=/
+OrderInTree=33024
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3.16.1148
+DefaultVersion=8.3.16.1148
+AdditionalParameters=/UC 987654
+[АНО Ясенева Поляна зарплата #сервер]
+Connect=Srvr="SRVMAIN";Ref="yaspolzrp";
+ID=3b0dea6f-d069-44f6-8aef-7bfa2d4c6f51
+OrderInList=16864
+Folder=/
+OrderInTree=98560
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+DefaultVersion=8.3.16.1148
+[АНО Инклюзион зарплата #сервер]
+Connect=Srvr="SRVMAIN";Ref="incluszrp";
+ID=b9a5f3a8-580a-44dd-8dda-0ee66efb3802
+OrderInList=16960
+Folder=/
+OrderInTree=82176
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+DefaultVersion=8.3.16.1148
+AdditionalParameters=/UC 987654
+[АНО Ассоциация бухгалтерия #сервер]
+Connect=Srvr="SRVMAIN";Ref="assocbux";
+ID=9a722cec-7c65-4a7e-8a73-6b489a3d0867
+OrderInList=16874.6666666667
+Folder=/
+OrderInTree=114944
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+DefaultVersion=8.3.16.1148
+AdditionalParameters=/UC 987654
+[АНО Ассоциация зарплата #сервер]
+Connect=Srvr="SRVMAIN";Ref="assoczrp";
+ID=3bf9b0c3-d8e1-46ec-afaa-681e55a525e9
+OrderInList=17008
+Folder=/
+OrderInTree=131328
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+DefaultVersion=8.3.16.1148
+AdditionalParameters=/UC 987654
+[АНО Ясенева Поляна бухгалтерия #сервер]
+Connect=Srvr="SRVMAIN";Ref="yaspolbux";
+ID=5898407d-adbc-42a4-9ca5-46b636d39229
+OrderInList=16768
+Folder=/
+OrderInTree=65792
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+DefaultVersion=8.3.16.1148
+AdditionalParameters=/UC 987654
+[Фонд бухгалтерия 2019 #сервер]
+Connect=Srvr="SRVMAIN";Ref="fondbux";
+ID=fecc841f-674a-459c-ade1-1f349c7fa9b5
+OrderInList=16640
+Folder=/
+OrderInTree=16640
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+DefaultVersion=8.3.16.1148
+AdditionalParameters=/UC 987654
+[Журнал СО-БЕСЕДНИК 2019]
+Connect=Srvr="SRVMAIN";Ref="jourbuxnko";
+ID=e862f99d-ce06-43ce-a1bd-f55043e51b96
+OrderInList=16778.6666666667
+Folder=/
+OrderInTree=311552
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+AdditionalParameters=/UC 987654
+[Журнал СО-БЕСЕДНИК 2018]
+Connect=Srvr="SRVMAIN";Ref="journalbux";
+ID=537fe1fe-22b7-4dcd-b393-eb172b9e5cd6
+OrderInList=18464.6666666667
+Folder=/
+OrderInTree=295168
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+[Журнал СО-БЕСЕДНИК Старая]
+Connect=Srvr="SRVMAIN";Ref="oldbux3";
+ID=3fcdd187-3e23-447f-8707-cd0aebf042ae
+OrderInList=16645
+Folder=/
+OrderInTree=278784
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+[Журнал Зарплата и Кадры]
+Connect=Srvr="SRVMAIN";Ref="jurnalzup";
+ID=21f00dd0-b07b-4f52-ad87-e61ae24c398b
+OrderInList=16771.5555555556
+Folder=/
+OrderInTree=327936
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+[АНО Инклюзион бухгалтерия #сервер]
+Connect=Srvr="SRVMAIN";Ref="inclusbux";
+ID=eaeab1b5-574e-4ab7-b1a5-2083100badea
+OrderInList=17152
+Folder=/
+OrderInTree=49408
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+DefaultVersion=8.3.16.1148
+AdditionalParameters=/UC 987654
+[Бухгалтерия и финансирование]
+Connect=Srvr="SRVMAIN";Ref="buxfinance";
+ID=1d159969-8ebb-402e-9c2d-dd0c024f8e0b
+OrderInList=16712.2962962963
+Folder=/
+OrderInTree=377088
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+AdditionalParameters=/UC 987654
